@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Alberto Zancanaro
-@Id: 1211199
-"""
-
 import os
 import numpy as np
 import pandas as pd
