@@ -1,17 +1,12 @@
-"""
-@author: Alberto Zancanaro
-@Id: 1211199
-"""
-
 from support_function import *
 
 #%%
 
 # Access information for the tweeter API
-consumer_key = 'QUqKEomsPor74N7VPZjEZTpBb'
-consumer_secret = 'sNO8eF1ebvdpFAFwKewd2uYqc8kFHKHMBJBEcdx2VqeEEVP6Gr'
-access_token = '2999009171-Gx14CkvwoGqQ1c3jdxgYsHnuJgHImaVtYQkGnRT'
-access_token_secret = 'CJ46nRKrAOuvloRaHYnUZRYvnQWDabiPQP1EXWeyT4jIq'
+consumer_key = '-----'
+consumer_secret = '---------'
+access_token = '------'
+access_token_secret = '--------'
 
 # Data for the query
 search_term = "Replying to @realDonaldTrump"
